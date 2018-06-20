@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1042848464710",
+    "firebase_url": "https://instagramo-b140f.firebaseio.com",
+    "project_id": "instagramo-b140f",
+    "storage_bucket": "instagramo-b140f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042848464710:android:9b5a04039e071f89",
+        "android_client_info": {
+          "package_name": "com.altice.hojuelita.instagramo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042848464710-tk4bpse9qofbdgcqn783uc04e2d4t1ia.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1042848464710-tk4bpse9qofbdgcqn783uc04e2d4t1ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG2k--t207MCqsjHqKuIbEyTiHCHjP2kY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Instagramo</string>
+    <string name="enter_email">Introduzca su correo electronico</string>
+    <string name="enter_pass">Introduzca su contraseña</string>
+    <string name="log_in">Iniciar sesión</string>
+    <string name="forgot_pass"><u>Olvidaste tu contraseña? No hay problema!</u></string>
+    <string name="register_here"><u>"Todavía no eres miembro? Regístrate aquí."</u></string>
+    <string name="empty">Campo no puede estar vacio.</string>
+    <string name="invalid_email">Este email no es valido.</string>
+    <string name="invalid_password">La contraseña debe contener al menos 6 caracteres.</string>
+    <string name="invalid_user">Email o contraseña incorrecta</string>
+    <string name="new_user_registration">Registro de Nuevo Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="email">Email</string>
+    <string name="register_now">Regístrate ahora!</string>
+    <string name="cancel">Cancelar</string>
+    <string name="welcome">Bienvenido!</string>
+    <string name="reset_pass">Restablecer La Contraseña</string>
+    <string name="reset">Restablecer</string>
+    <string name="reset_email_sent">Correo Electrónico de Reinicio Enviado</string>
+    <string name="report">Reportar</string>
+    <string name="list">Listado</string>
+    <string name="share">Compartir</string>
+    <string name="realtime_news">Noticias En Tiempo Real!</string>
+    <string name="settings">Configuración</string>
+    <string name="submit_a_felony">Enviar un Delito</string>
+    <string name="upload_picture">Subir Imagen</string>
+    <string name="set_location">Ubicar Lugar</string>
+    <string name="description">Descripción</string>
+    <string name="submit">Enviar</string>
+    <string name="remove_picture">Remover Imagen</string>
+    <string name="Preview">Vista Previa</string>
+    <string name="post_complete">Publicación Completada!</string>
+    <string name="error_occurred">Se ha producido un error</string>
+    <string name="fill_camps">Debe primero llenar todos los campos</string>
+    <string name="please_wait">Por Favor Espere....</string>
+</resources>
